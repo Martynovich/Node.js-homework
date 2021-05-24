@@ -1,2 +1,2 @@
 # homework1
-node.ja homework 1
+node.js homework
